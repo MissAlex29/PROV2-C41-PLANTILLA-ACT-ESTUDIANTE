@@ -193,8 +193,7 @@ class Game {
       this.handlePlayerControls();
 
       // Línea de meta
-      //Indica que la altura de la meta esta
-      //100px antes de terminar la imagen 
+      //Indica que la altura de la meta esta 100px antes de terminar la imagen 
       const finshLine = height * 6 - 100;
       //Sí el jugador pasa la línea de meta 
       if (player.positionY > finshLine) {
