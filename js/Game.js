@@ -238,14 +238,7 @@ class Game {
 
   //Método para la barra de combustible 
   /*showFuelBar() {
-    push();
-    image(fuelImage, width / 2 - 130, height - player.positionY - 350, 20, 20);
-    fill("white");
-    rect(width / 2 - 100, height - player.positionY - 350, 185, 20);
-    fill("#ffc400");
-    rect(width / 2 - 100, height - player.positionY - 350, player.fuel, 20);
-    noStroke();
-    pop();
+    
   }*/
 
   //Muestra quien es el lider 
